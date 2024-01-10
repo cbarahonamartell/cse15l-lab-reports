@@ -1,6 +1,6 @@
 # 1-10-23 #
 ___
-## cd command##
+## cd command
 ![Image](cdnoargs.png)
 
 The working directory was home.
@@ -18,3 +18,19 @@ Not an error, the command worked.
 The working directory was lecture1.
 I got this output because cd uses directories, not files.
 Not an error, this is supposed to happen with files.
+___
+## ls command
+![Image](lsnoargs.png)
+
+My working directory was home.
+I got this output because the ls command lists everything. At the current directory, lecture1 was the only thing to be listed.
+Not an error, the command worked fine
+
+![image](lsrepo.png)
+
+My working directory was still home.
+This was my output because the command simply listed everything that was in the directory, lecture1.
+
+![image](lsfile.png)
+
+
